@@ -10,7 +10,14 @@ git add . && git commit -m "Adding document to implement RabbitMQ" && git push
 git add . && git commit -m "Implement log files" && git push
 
 ```
-
+---
+Commit to add file
 ```shell
-git pull; git add .; git commit -m "EC09671 - Creating developer environment"; git push;
+git pull; git add .; git commit -m "Creating developer environment"; git push;
+```
+
+---
+Commit to modify something
+```shell
+git pull; git add .; git commit -m "Modify something"; git push;
 ```

@@ -8,10 +8,10 @@
 | `git config -–global credential.helper` | command is used to show the credentials.                     |
 
 ### Setting Git Configuration
-| Command                                               | Description                                                  |
-|-------------------------------------------------------|--------------------------------------------------------------|
-| `git config --global user.name "Tan Trinh"`           | To set your user name and email address. |
-| `git config --global user.email tantrinh@tpfgroup.cc` | To set your user name and email address. |
+| Command                                               | Description                |
+|-------------------------------------------------------|----------------------------|
+| `git config --global user.name "Tan Trinh"`           | To set your user name.     |
+| `git config --global user.email tantrinh@tpfgroup.cc` | To set your email address. |
 
 ### Getting & Creating Projects
 | Command                                                           | Description                                |
