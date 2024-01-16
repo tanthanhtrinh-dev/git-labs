@@ -21,3 +21,8 @@ Commit to modify something
 ```shell
 git pull; git add .; git commit -m "Modify something"; git push;
 ```
+
+To keep it in one line use:
+```sh
+git commit -am "Your commit message"
+```
