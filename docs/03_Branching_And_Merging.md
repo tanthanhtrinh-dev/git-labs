@@ -19,4 +19,4 @@
 | `git stash clear`                                     | Remove all stashed entries                                                                                                                                     |
 | `git pull origin master --allow-unrelated-histories`  | The “fatal: refusing to merge unrelated histories” Git error [REF](https://www.educative.io/answers/the-fatal-refusing-to-merge-unrelated-histories-git-error) |
 | `git merge origin master --allow-unrelated-histories` | The “fatal: refusing to merge unrelated histories” Git error [REF](https://www.educative.io/answers/the-fatal-refusing-to-merge-unrelated-histories-git-error) |
-
+| `git branch -m oldbranch newbranch` | Change branch name by new one |
