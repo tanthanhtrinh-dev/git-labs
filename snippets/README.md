@@ -1,4 +1,4 @@
 # Snippets
 ```shell
-git pull; git add .; git commit -m "[Message content]"; git push;
+git pull; git add .; git commit -m "[Emtpy Message content]"; git push;
 ```
