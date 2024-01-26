@@ -67,9 +67,3 @@ Git Commands
 | `git log --summary`                        | View changes (detailed)        |
 | `git log --oneline`                        | View changes (briefly)         |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
-
-git remote add heroku-yae https://git.heroku.com/tpf-shopify-integrate-yae.git
-
-```shell
-git -c diff.mnemonicprefix=false -c core.quotepath=false --no-optional-locks push -v --set-upstream heroku-yae heroku/yae/main:main
-```
