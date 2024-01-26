@@ -1,5 +1,6 @@
 # Deleting your git commit history without removing repo on Github/Bitbucket
 
+[Source](https://www.willandskill.se/sv/articles/deleting-your-git-commit-history-without-removing-repo-on-github-bitbucket)
 1. Step 1
 ```shell
 cd myrepo; rm -rf .git;
