@@ -9,5 +9,5 @@ Get-Service ssh-agent | Set-Service -StartupType Automatic -PassThru | Start-Ser
 
 **Adding the SSH Key to the SSH-Agent Service**
 ```powershell
-ssh-add C:\Users\chastie/.ssh\id_ed25519_git_demo
+ssh-add C:\Users\tan.trinh/.ssh\tantrinh.tpf.dev
 ```
