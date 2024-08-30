@@ -1,7 +1,7 @@
 ### Global Git Configuration
 | Command                                 | Description                                                  |
 |-----------------------------------------|--------------------------------------------------------------|
-| `git config -–global –list`             | command is used to display the list of configurations.       |
+| `git config -–global -–list`             | command is used to display the list of configurations.       |
 | `git config --list --show-origin`       | You can view all of your settings and where they are coming. |
 | `git config -–global –get user.name`    | command can be utilized.                                     |
 | `git config -–global –get user.email`   | command is used to view the user email.                      |
@@ -11,7 +11,7 @@
 | Command                                               | Description                |
 |-------------------------------------------------------|----------------------------|
 | `git config --global user.name "Tan Trinh"`           | To set your user name.     |
-| `git config --global user.email tantrinh@tpfgroup.cc` | To set your email address. |
+| `git config --global user.email tanthanhtrinh.dev@gmail.com` | To set your email address. |
 
 ### Getting & Creating Projects
 | Command                                                           | Description                                |
