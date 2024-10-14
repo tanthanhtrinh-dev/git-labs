@@ -1,19 +1,20 @@
-**Scenario 1:** Rename the Current Branch
+# Brannching
 
-1. **Scenario 1:** Rename the Current Branch.
-   1. Check Out the Branch You Want to Rename: 
+## **Scenario 1:** Rename the Current Branch
+
+
+1. Check Out the Branch You Want to Rename: 
 ```bash 
 git checkout <branch-name>
 ```
-   2. Rename the Current Branch: 
+
+2. Rename the Current Branch: 
 ```bash
 git branch -m <new-branch-name>
-```
-```bash
 git branch -m new-feature-branch
 ```
 
-1. **Scenario 2:** Rename a Different Branch
+## **Scenario 2:** Rename a Different Branch
     1. Rename the Branch Directly:
 ```bash
 git branch -m <old-branch-name> <new-branch-name>
@@ -23,14 +24,14 @@ git branch -m <old-branch-name> <new-branch-name>
 git branch -m feature-branch new-feature-branch
 ```
     
- 1. **Scenario 3:** Push the Renamed Branch to Remote
+## **Scenario 3:** Push the Renamed Branch to Remote
     1. Delete the Old Branch on the Remote:
     2. Set the Upstream for the New Branch:
     3. 
 
-    ```bash
-    git push origin <new-branch-name>; git push origin --delete <old-branch-name>;git push --set-upstream origin <new-branch-name>;
-    ```
+```bash
+git push origin <new-branch-name>; git push origin --delete <old-branch-name>;git push --set-upstream origin <new-branch-name>;
+```
 
 ## Example Workflow for Renaming a Branch    
 - Rename the branch:
