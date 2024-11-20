@@ -19,6 +19,7 @@ git branch -m new-feature-branch
 ```bash
 git branch -m <old-branch-name> <new-branch-name>
 ```
+
 **For examples**
 ```bash
 git branch -m feature-branch new-feature-branch
@@ -28,7 +29,6 @@ git branch -m feature-branch new-feature-branch
     1. Delete the Old Branch on the Remote:
     2. Set the Upstream for the New Branch:
     3. 
-
 ```bash
 git push origin <new-branch-name>; git push origin --delete <old-branch-name>;git push --set-upstream origin <new-branch-name>;
 ```
