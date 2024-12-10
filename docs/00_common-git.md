@@ -23,6 +23,6 @@ git pull; git add .; git commit -m "Modify something"; git push;
 ```
 
 To keep it in one line use:
-```sh
+```shell
 git commit -am "Your commit message"
 ```
