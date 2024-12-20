@@ -1,4 +1,4 @@
-### Global Git Configuration
+|||### Global Git Configuration
 | Command                                 | Description                                                  |
 |-----------------------------------------|--------------------------------------------------------------|
 | `git config -–global -–list`             | command is used to display the list of configurations.       |
